@@ -1,0 +1,12 @@
+{
+  "packageId": 1,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType": "MINC",
+  "packageType": "Image",
+  "files": [
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/icbm_avg_152_t1_tal_lin.mnc"
+  ],
+  "assetDirectory": "data/radiological-imaging/",
+  "packageNodeId": "N:package:4e8c459b-bffb-49e1-8c6a-de2d8190d84e"
+}

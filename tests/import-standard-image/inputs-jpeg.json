@@ -1,0 +1,12 @@
+{
+  "packageId": 1,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType": "JPEG",
+  "packageType": "Image",
+  "files": [
+    "s3://local-storage-pennsieve/import-standard-image/data/sample_jpeg.jpeg"
+  ],
+  "assetDirectory": "data/standard-image/",
+  "packageNodeId": "N:package:4e8c459b-bffb-49e1-8c6a-de2d8190d84e"
+}

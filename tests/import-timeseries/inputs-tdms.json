@@ -1,0 +1,12 @@
+{
+  "packageId": 1,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType": "TDMS",
+  "packageType": "TimeSeries",
+  "files": [
+    "s3://local-storage-pennsieve/import-timeseries/data/test.tdms"
+  ],
+  "assetDirectory": "import-timeseries/",
+  "packageNodeId": "test-package-node-id"
+}

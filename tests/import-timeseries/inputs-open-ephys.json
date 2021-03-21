@@ -1,0 +1,14 @@
+{
+  "packageId": 1,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType": "OpenEphys",
+  "packageType": "TimeSeries",
+  "files": [
+    "s3://local-storage-pennsieve/import-timeseries/data/openephys.continuous",
+    "s3://local-storage-pennsieve/import-timeseries/data/openephys2.continuous",
+    "s3://local-storage-pennsieve/import-timeseries/data/openephys.spikes"
+  ],
+  "assetDirectory": "import-timeseries/",
+  "packageNodeId": "test-package-node-id"
+}

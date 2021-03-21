@@ -1,0 +1,98 @@
+{
+  "packageId": 1,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType" : "Feather",
+  "packageType" : "TimeSeries",
+  "files" : [
+    "s3://local-storage-pennsieve/append-timeseries/data/test.feather"
+  ],
+  "assetDirectory" : "mark@blackfynn.com/data/the-import-id/",
+  "channels" : [
+    {
+      "nodeId" : "N:channel:channel-0",
+      "packageId" : 1,
+      "name" : "noise",
+      "start" : 1505222904575664,
+      "end" : 1505223104565664,
+      "unit" : "uV",
+      "rate" : 200.0,
+      "type" : "CONTINUOUS",
+      "group" : "default",
+      "lastAnnotation" : 0,
+      "spikeDuration" : null,
+      "properties" : [
+      ],
+      "createdAt" : "2018-04-17T14:05:11.684787Z",
+      "id" : 1
+    },
+    {
+      "nodeId" : "N:channel:channel-1",
+      "packageId" : 1,
+      "name" : "pulse",
+      "start" : 1505222904575664,
+      "end" : 1505223104565664,
+      "unit" : "uV",
+      "rate" : 200.0,
+      "type" : "CONTINUOUS",
+      "group" : "default",
+      "lastAnnotation" : 0,
+      "spikeDuration" : null,
+      "properties" : [
+      ],
+      "createdAt" : "2018-04-17T14:06:16.842158Z",
+      "id" : 2
+    },
+    {
+      "nodeId" : "N:channel:channel-2",
+      "packageId" : 1,
+      "name" : "ramp",
+      "start" : 1505222904575664,
+      "end" : 1505223104565664,
+      "unit" : "uV",
+      "rate" : 200.0,
+      "type" : "CONTINUOUS",
+      "group" : "default",
+      "lastAnnotation" : 0,
+      "spikeDuration" : null,
+      "properties" : [
+      ],
+      "createdAt" : "2018-04-17T14:05:10.036071Z",
+      "id" : 3
+    },
+    {
+      "nodeId" : "N:channel:channel-3",
+      "packageId" : 1,
+      "name" : "sine 1 Hz",
+      "start" : 1505222904575664,
+      "end" : 1505223104565664,
+      "unit" : "uV",
+      "rate" : 200.0,
+      "type" : "CONTINUOUS",
+      "group" : "default",
+      "lastAnnotation" : 0,
+      "spikeDuration" : null,
+      "properties" : [
+      ],
+      "createdAt" : "2018-04-17T14:04:41.269756Z",
+      "id" : 4
+    },
+    {
+      "nodeId" : "N:channel:channel-4",
+      "packageId" : 1,
+      "name" : "sine 15 Hz",
+      "start" : 1505222904575664,
+      "end" : 1505223104565664,
+      "unit" : "uV",
+      "rate" : 200.0,
+      "type" : "CONTINUOUS",
+      "group" : "default",
+      "lastAnnotation" : 0,
+      "spikeDuration" : null,
+      "properties" : [
+      ],
+      "createdAt" : "2018-04-17T14:05:12.558617Z",
+      "id" : 5
+    }
+  ]
+}

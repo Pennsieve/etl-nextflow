@@ -1,0 +1,31 @@
+{
+  "packageId": 1,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType": "DICOM",
+  "packageType": "Image",
+  "files": [
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000001.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000002.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000003.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000004.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000005.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000006.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000007.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000008.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000009.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000010.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000011.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000012.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000013.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000014.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000015.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000016.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000017.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000018.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000019.dcm",
+    "s3://local-storage-pennsieve/import-radiological-imaging/data/1res_1img_TCGA-DU-5849_19991231_SAGT1FLAIR_000020.dcm"
+  ],
+  "assetDirectory": "data/radiological-imaging/",
+  "packageNodeId": "N:package:4e8c459b-bffb-49e1-8c6a-de2d8190d84e"
+}

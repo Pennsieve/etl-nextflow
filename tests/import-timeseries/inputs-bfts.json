@@ -1,0 +1,12 @@
+{
+  "packageId": 1,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType": "BFTS",
+  "packageType": "TimeSeries",
+  "files": [
+    "s3://local-storage-pennsieve/import-timeseries/data/test.bfts"
+  ],
+  "assetDirectory": "timeseries/",
+  "packageNodeId": "test-package-node-id"
+}

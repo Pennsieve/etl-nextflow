@@ -1,0 +1,9 @@
+{
+  "packageId": 2,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType": "NeuroDataWithoutBorders",
+  "packageType": "HDF5",
+  "sourcePackageId": 1,
+  "sourcePackageType": "TimeSeries"
+}

@@ -1,0 +1,12 @@
+{
+  "packageId": 1,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType": "HDF5",
+  "packageType": "HDF5",
+  "files": [
+    "s3://local-storage-pennsieve/import-hdf5-archive/data/test.hdf5"
+  ],
+  "assetDirectory": "data/import-hdf5-archive/",
+  "packageNodeId": "N:package:4e8c459b-bffb-49e1-8c6a-de2d8190d84e"
+}

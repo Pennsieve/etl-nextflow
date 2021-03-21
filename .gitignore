@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*.nextflow*
+.DS_Store
+work
+scratch/
+.idea/
+.vscode/
+nextflow

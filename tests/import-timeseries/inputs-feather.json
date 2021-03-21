@@ -1,0 +1,12 @@
+{
+  "packageId": 1,
+  "organizationId": 1,
+  "userId": 1,
+  "fileType": "FEATHER",
+  "packageType": "TimeSeries",
+  "files": [
+    "s3://local-storage-pennsieve/import-timeseries/data/test.feather"
+  ],
+  "assetDirectory": "import-timeseries/",
+  "packageNodeId": "test-package-node-id"
+}
