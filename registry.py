@@ -19,7 +19,7 @@ registry = {
         "BFTS"                    : "import-timeseries",
         "Nicolet"                 : "import-timeseries",
         "MEF3"                    : "import-timeseries",
-        "Feather"                 : "import-timeseries",
+        "Feather"                 : None,
         "NEV"                     : "import-timeseries",
         "Spike2"                  : "import-timeseries",
         "MINC"                    : "import-radiological-imaging",
@@ -63,7 +63,6 @@ registry = {
     ###########################################################################
     "append": {
         "BFTS"          : "append-timeseries",
-        "Feather"       : "append-timeseries",
         "MEF"           : "append-timeseries",
         "MEF3"          : "append-timeseries"
     },
